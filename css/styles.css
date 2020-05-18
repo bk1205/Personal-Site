@@ -64,10 +64,15 @@ p {
   float: left;
   margin-right: 30px;
 }
+.appd-img {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
 
 .probsol-img {
   width: 25%;
-  float: right;
+  float: left;
   margin-left: 30px;
 }
 
